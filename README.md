@@ -8,6 +8,7 @@
 **Turning business data into insights, workflows into systems, and insights into growth.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-16b968?style=for-the-badge&logo=webflow&logoColor=white)](https://abdo.webflow.io)
+[![Projects](https://img.shields.io/badge/Projects-16b968?style=for-the-badge&logo=github&logoColor=white)](https://abdo.webflow.io/work)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-elabiry/)
 [![Email](https://img.shields.io/badge/Email-202020?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.elabiry@gmail.com)
 
@@ -29,7 +30,7 @@ By combining business analysis with data analytics and automation, I explore opp
 - **Data Solutions:** Data transformation, validation, and structured data modeling.
 - **Automation & AI:** Connecting systems and streamlining workflows with APIs, n8n, and AI tools.
 
-I am particularly interested in bridging the gap between business stakeholders, analytical solutions, and the data infrastructure that makes reliable insights possible.
+I enjoy bridging the gap between business stakeholders, analytical solutions, and the data infrastructure that makes reliable insights possible.
 
 ---
 
@@ -51,7 +52,7 @@ An e-commerce analytics solution designed to help businesses understand sales pe
 
 **Business objective:** Identify opportunities to improve customer retention, understand performance gaps, and increase profitability.
 
-[Explore the project →](https://abdo.webflow.io)
+[Explore my projects →](https://abdo.webflow.io/work)
 
 ---
 
@@ -70,7 +71,7 @@ An experiment exploring how AI can support the development of business intellige
 
 **Business objective:** Explore ways to accelerate analytics workflows and reduce repetitive development work.
 
-[View my portfolio →](https://abdo.webflow.io)
+[View project portfolio →](https://abdo.webflow.io/work)
 
 ---
 
@@ -89,7 +90,7 @@ Practical projects focused on connecting systems, processing data, and automatin
 
 **Business objective:** Improve data accessibility, consistency, and operational efficiency.
 
-[Explore my work →](https://github.com/)
+[Explore my projects →](https://abdo.webflow.io/work)
 
 ---
 
@@ -128,31 +129,31 @@ Practical projects focused on connecting systems, processing data, and automatin
 
 <div align="center">
 
-**01 · Understand**
+**01 · UNDERSTAND**
 
 Define business objectives, stakeholder requirements, and success criteria.
 
 ↓
 
-**02 · Prepare**
+**02 · PREPARE**
 
 Collect, clean, validate, and structure data from relevant sources.
 
 ↓
 
-**03 · Analyze**
+**03 · ANALYZE**
 
 Evaluate KPIs, identify trends, and investigate performance gaps.
 
 ↓
 
-**04 · Build**
+**04 · BUILD**
 
 Develop dashboards, analytical solutions, and automated workflows.
 
 ↓
 
-**05 · Improve**
+**05 · IMPROVE**
 
 Translate findings into actionable recommendations and measurable outcomes.
 
@@ -179,10 +180,13 @@ If you're working on a business problem that could benefit from better data, cle
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-16b968?style=for-the-badge&logo=webflow&logoColor=white)](https://abdo.webflow.io)
+[![Explore My Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-16b968?style=for-the-badge&logo=webflow&logoColor=white)](https://abdo.webflow.io/work)
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-elabiry/)
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-202020?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.elabiry@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-elabiry/)
+
+<a href="mailto:abdullah.elabiry@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-abdullah.elabiry%40gmail.com-202020?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abdullah Elabiry" />
+</a>
 
 <br/>
 
